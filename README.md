@@ -1,2 +1,2 @@
 # Hello-World
-new beginings with python langauage
+new beginings with python language
